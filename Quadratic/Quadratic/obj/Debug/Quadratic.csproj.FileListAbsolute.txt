@@ -5,3 +5,10 @@ D:\Универ\Quadratic\Quadratic\obj\Debug\Quadratic.csprojAssemblyReference.
 D:\Универ\Quadratic\Quadratic\obj\Debug\Quadratic.csproj.CoreCompileInputs.cache
 D:\Универ\Quadratic\Quadratic\obj\Debug\Quadratic.exe
 D:\Универ\Quadratic\Quadratic\obj\Debug\Quadratic.pdb
+D:\Универ\Шарп\BKITSharpRepo\Quadratic\Quadratic\bin\Debug\Quadratic.exe.config
+D:\Универ\Шарп\BKITSharpRepo\Quadratic\Quadratic\bin\Debug\Quadratic.exe
+D:\Универ\Шарп\BKITSharpRepo\Quadratic\Quadratic\bin\Debug\Quadratic.pdb
+D:\Универ\Шарп\BKITSharpRepo\Quadratic\Quadratic\obj\Debug\Quadratic.csprojAssemblyReference.cache
+D:\Универ\Шарп\BKITSharpRepo\Quadratic\Quadratic\obj\Debug\Quadratic.csproj.CoreCompileInputs.cache
+D:\Универ\Шарп\BKITSharpRepo\Quadratic\Quadratic\obj\Debug\Quadratic.exe
+D:\Универ\Шарп\BKITSharpRepo\Quadratic\Quadratic\obj\Debug\Quadratic.pdb
