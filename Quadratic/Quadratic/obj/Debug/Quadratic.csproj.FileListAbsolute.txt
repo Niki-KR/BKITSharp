@@ -1,0 +1,7 @@
+D:\Универ\Quadratic\Quadratic\bin\Debug\Quadratic.exe.config
+D:\Универ\Quadratic\Quadratic\bin\Debug\Quadratic.exe
+D:\Универ\Quadratic\Quadratic\bin\Debug\Quadratic.pdb
+D:\Универ\Quadratic\Quadratic\obj\Debug\Quadratic.csprojAssemblyReference.cache
+D:\Универ\Quadratic\Quadratic\obj\Debug\Quadratic.csproj.CoreCompileInputs.cache
+D:\Универ\Quadratic\Quadratic\obj\Debug\Quadratic.exe
+D:\Универ\Quadratic\Quadratic\obj\Debug\Quadratic.pdb
