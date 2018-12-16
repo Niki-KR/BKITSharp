@@ -1,0 +1,14 @@
+D:\Универ\Geometry\Geometry\bin\Debug\Geometry.exe.config
+D:\Универ\Geometry\Geometry\bin\Debug\Geometry.exe
+D:\Универ\Geometry\Geometry\bin\Debug\Geometry.pdb
+D:\Универ\Geometry\Geometry\obj\Debug\Geometry.csprojAssemblyReference.cache
+D:\Универ\Geometry\Geometry\obj\Debug\Geometry.csproj.CoreCompileInputs.cache
+D:\Универ\Geometry\Geometry\obj\Debug\Geometry.exe
+D:\Универ\Geometry\Geometry\obj\Debug\Geometry.pdb
+D:\Google Drive\Шарп\Geometry\Geometry\bin\Debug\Geometry.exe.config
+D:\Google Drive\Шарп\Geometry\Geometry\bin\Debug\Geometry.exe
+D:\Google Drive\Шарп\Geometry\Geometry\bin\Debug\Geometry.pdb
+D:\Google Drive\Шарп\Geometry\Geometry\obj\Debug\Geometry.csprojAssemblyReference.cache
+D:\Google Drive\Шарп\Geometry\Geometry\obj\Debug\Geometry.csproj.CoreCompileInputs.cache
+D:\Google Drive\Шарп\Geometry\Geometry\obj\Debug\Geometry.exe
+D:\Google Drive\Шарп\Geometry\Geometry\obj\Debug\Geometry.pdb
