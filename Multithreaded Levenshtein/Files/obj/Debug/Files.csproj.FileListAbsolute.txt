@@ -1,0 +1,43 @@
+D:\Google Drive\Шарп\Files\Files\bin\Debug\Files.exe.config
+D:\Google Drive\Шарп\Files\Files\bin\Debug\Files.exe
+D:\Google Drive\Шарп\Files\Files\bin\Debug\Files.pdb
+D:\Google Drive\Шарп\Files\Files\obj\Debug\Files.Form1.resources
+D:\Google Drive\Шарп\Files\Files\obj\Debug\Files.Properties.Resources.resources
+D:\Google Drive\Шарп\Files\Files\obj\Debug\Files.csproj.GenerateResource.cache
+D:\Google Drive\Шарп\Files\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+D:\Google Drive\Шарп\Files\Files\obj\Debug\Files.exe
+D:\Google Drive\Шарп\Files\Files\obj\Debug\Files.pdb
+D:\Google Drive\Шарп\Files\Files\obj\Debug\Files.csprojAssemblyReference.cache
+D:\Google Drive\Шарп\NikiKRCSharp2018\Files\Files\bin\Debug\Files.exe.config
+D:\Google Drive\Шарп\NikiKRCSharp2018\Files\Files\bin\Debug\Files.exe
+D:\Google Drive\Шарп\NikiKRCSharp2018\Files\Files\bin\Debug\Files.pdb
+D:\Google Drive\Шарп\NikiKRCSharp2018\Files\Files\obj\Debug\Files.csprojAssemblyReference.cache
+D:\Google Drive\Шарп\NikiKRCSharp2018\Files\Files\obj\Debug\Files.Form1.resources
+D:\Google Drive\Шарп\NikiKRCSharp2018\Files\Files\obj\Debug\Files.Properties.Resources.resources
+D:\Google Drive\Шарп\NikiKRCSharp2018\Files\Files\obj\Debug\Files.csproj.GenerateResource.cache
+D:\Google Drive\Шарп\NikiKRCSharp2018\Files\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+D:\Google Drive\Шарп\NikiKRCSharp2018\Files\Files\obj\Debug\Files.exe
+D:\Google Drive\Шарп\NikiKRCSharp2018\Files\Files\obj\Debug\Files.pdb
+D:\Google Drive\Шарп\NikiKRCSharp2018\Levenshtein\Files\bin\Debug\Files.exe.config
+D:\Google Drive\Шарп\NikiKRCSharp2018\Levenshtein\Files\bin\Debug\Files.exe
+D:\Google Drive\Шарп\NikiKRCSharp2018\Levenshtein\Files\bin\Debug\Files.pdb
+D:\Google Drive\Шарп\NikiKRCSharp2018\Levenshtein\Files\bin\Debug\Levenshtein.dll
+D:\Google Drive\Шарп\NikiKRCSharp2018\Levenshtein\Files\bin\Debug\Levenshtein.pdb
+D:\Google Drive\Шарп\NikiKRCSharp2018\Levenshtein\Files\obj\Debug\Files.csprojAssemblyReference.cache
+D:\Google Drive\Шарп\NikiKRCSharp2018\Levenshtein\Files\obj\Debug\Files.Form1.resources
+D:\Google Drive\Шарп\NikiKRCSharp2018\Levenshtein\Files\obj\Debug\Files.Properties.Resources.resources
+D:\Google Drive\Шарп\NikiKRCSharp2018\Levenshtein\Files\obj\Debug\Files.csproj.GenerateResource.cache
+D:\Google Drive\Шарп\NikiKRCSharp2018\Levenshtein\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+D:\Google Drive\Шарп\NikiKRCSharp2018\Levenshtein\Files\obj\Debug\Files.csproj.CopyComplete
+D:\Google Drive\Шарп\NikiKRCSharp2018\Levenshtein\Files\obj\Debug\Files.exe
+D:\Google Drive\Шарп\NikiKRCSharp2018\Levenshtein\Files\obj\Debug\Files.pdb
+D:\Google Drive\Шарп\NikiKRCSharp2018\Multithreaded Levenshtein\Files\bin\Debug\Files.exe.config
+D:\Google Drive\Шарп\NikiKRCSharp2018\Multithreaded Levenshtein\Files\bin\Debug\Files.exe
+D:\Google Drive\Шарп\NikiKRCSharp2018\Multithreaded Levenshtein\Files\bin\Debug\Files.pdb
+D:\Google Drive\Шарп\NikiKRCSharp2018\Multithreaded Levenshtein\Files\obj\Debug\Files.Form1.resources
+D:\Google Drive\Шарп\NikiKRCSharp2018\Multithreaded Levenshtein\Files\obj\Debug\Files.Properties.Resources.resources
+D:\Google Drive\Шарп\NikiKRCSharp2018\Multithreaded Levenshtein\Files\obj\Debug\Files.csproj.GenerateResource.cache
+D:\Google Drive\Шарп\NikiKRCSharp2018\Multithreaded Levenshtein\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+D:\Google Drive\Шарп\NikiKRCSharp2018\Multithreaded Levenshtein\Files\obj\Debug\Files.exe
+D:\Google Drive\Шарп\NikiKRCSharp2018\Multithreaded Levenshtein\Files\obj\Debug\Files.pdb
+D:\Google Drive\Шарп\NikiKRCSharp2018\Multithreaded Levenshtein\Files\obj\Debug\Files.csprojAssemblyReference.cache
