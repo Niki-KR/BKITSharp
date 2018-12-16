@@ -12,3 +12,10 @@ D:\Google Drive\Шарп\NikiKRCSharp2018\Collections\Collections\obj\Debug\Geom
 D:\Google Drive\Шарп\NikiKRCSharp2018\Collections\Collections\obj\Debug\GeometryCollections.csproj.CoreCompileInputs.cache
 D:\Google Drive\Шарп\NikiKRCSharp2018\Collections\Collections\obj\Debug\Collections.exe
 D:\Google Drive\Шарп\NikiKRCSharp2018\Collections\Collections\obj\Debug\Collections.pdb
+D:\Универ\Шарп\BKITSharpRepo\Collections\Collections\bin\Debug\Collections.exe.config
+D:\Универ\Шарп\BKITSharpRepo\Collections\Collections\bin\Debug\Collections.exe
+D:\Универ\Шарп\BKITSharpRepo\Collections\Collections\bin\Debug\Collections.pdb
+D:\Универ\Шарп\BKITSharpRepo\Collections\Collections\obj\Debug\GeometryCollections.csprojAssemblyReference.cache
+D:\Универ\Шарп\BKITSharpRepo\Collections\Collections\obj\Debug\GeometryCollections.csproj.CoreCompileInputs.cache
+D:\Универ\Шарп\BKITSharpRepo\Collections\Collections\obj\Debug\Collections.exe
+D:\Универ\Шарп\BKITSharpRepo\Collections\Collections\obj\Debug\Collections.pdb
