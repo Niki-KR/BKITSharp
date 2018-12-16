@@ -12,3 +12,10 @@ D:\Google Drive\Шарп\Geometry\Geometry\obj\Debug\Geometry.csprojAssemblyRefe
 D:\Google Drive\Шарп\Geometry\Geometry\obj\Debug\Geometry.csproj.CoreCompileInputs.cache
 D:\Google Drive\Шарп\Geometry\Geometry\obj\Debug\Geometry.exe
 D:\Google Drive\Шарп\Geometry\Geometry\obj\Debug\Geometry.pdb
+D:\Универ\Шарп\BKITSharpRepo\Geometry\Geometry\bin\Debug\Geometry.exe.config
+D:\Универ\Шарп\BKITSharpRepo\Geometry\Geometry\bin\Debug\Geometry.exe
+D:\Универ\Шарп\BKITSharpRepo\Geometry\Geometry\bin\Debug\Geometry.pdb
+D:\Универ\Шарп\BKITSharpRepo\Geometry\Geometry\obj\Debug\Geometry.csprojAssemblyReference.cache
+D:\Универ\Шарп\BKITSharpRepo\Geometry\Geometry\obj\Debug\Geometry.csproj.CoreCompileInputs.cache
+D:\Универ\Шарп\BKITSharpRepo\Geometry\Geometry\obj\Debug\Geometry.exe
+D:\Универ\Шарп\BKITSharpRepo\Geometry\Geometry\obj\Debug\Geometry.pdb
