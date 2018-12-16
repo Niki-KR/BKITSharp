@@ -1,0 +1,10 @@
+D:\Google Drive\Шарп\NikiKRCSharp2018\Levenshtein\LevenTest\bin\Debug\LevenTest.exe.config
+D:\Google Drive\Шарп\NikiKRCSharp2018\Levenshtein\LevenTest\bin\Debug\LevenTest.exe
+D:\Google Drive\Шарп\NikiKRCSharp2018\Levenshtein\LevenTest\bin\Debug\LevenTest.pdb
+D:\Google Drive\Шарп\NikiKRCSharp2018\Levenshtein\LevenTest\bin\Debug\Levenshtein.dll
+D:\Google Drive\Шарп\NikiKRCSharp2018\Levenshtein\LevenTest\bin\Debug\Levenshtein.pdb
+D:\Google Drive\Шарп\NikiKRCSharp2018\Levenshtein\LevenTest\obj\Debug\LevenTest.csprojAssemblyReference.cache
+D:\Google Drive\Шарп\NikiKRCSharp2018\Levenshtein\LevenTest\obj\Debug\LevenTest.csproj.CoreCompileInputs.cache
+D:\Google Drive\Шарп\NikiKRCSharp2018\Levenshtein\LevenTest\obj\Debug\LevenTest.csproj.CopyComplete
+D:\Google Drive\Шарп\NikiKRCSharp2018\Levenshtein\LevenTest\obj\Debug\LevenTest.exe
+D:\Google Drive\Шарп\NikiKRCSharp2018\Levenshtein\LevenTest\obj\Debug\LevenTest.pdb

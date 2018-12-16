@@ -1,0 +1,6 @@
+D:\Google Drive\Шарп\NikiKRCSharp2018\Levenshtein\Levenshtein\bin\Debug\Levenshtein.dll
+D:\Google Drive\Шарп\NikiKRCSharp2018\Levenshtein\Levenshtein\bin\Debug\Levenshtein.pdb
+D:\Google Drive\Шарп\NikiKRCSharp2018\Levenshtein\Levenshtein\obj\Debug\Levenshtein.csprojAssemblyReference.cache
+D:\Google Drive\Шарп\NikiKRCSharp2018\Levenshtein\Levenshtein\obj\Debug\Levenshtein.csproj.CoreCompileInputs.cache
+D:\Google Drive\Шарп\NikiKRCSharp2018\Levenshtein\Levenshtein\obj\Debug\Levenshtein.dll
+D:\Google Drive\Шарп\NikiKRCSharp2018\Levenshtein\Levenshtein\obj\Debug\Levenshtein.pdb
