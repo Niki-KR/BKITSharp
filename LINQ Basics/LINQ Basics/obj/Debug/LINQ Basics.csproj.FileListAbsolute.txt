@@ -1,0 +1,7 @@
+D:\Google Drive\Шарп\NikiKRCSharp2018\LINQ Basics\LINQ Basics\bin\Debug\LINQ Basics.exe.config
+D:\Google Drive\Шарп\NikiKRCSharp2018\LINQ Basics\LINQ Basics\bin\Debug\LINQ Basics.exe
+D:\Google Drive\Шарп\NikiKRCSharp2018\LINQ Basics\LINQ Basics\bin\Debug\LINQ Basics.pdb
+D:\Google Drive\Шарп\NikiKRCSharp2018\LINQ Basics\LINQ Basics\obj\Debug\LINQ Basics.csprojAssemblyReference.cache
+D:\Google Drive\Шарп\NikiKRCSharp2018\LINQ Basics\LINQ Basics\obj\Debug\LINQ Basics.csproj.CoreCompileInputs.cache
+D:\Google Drive\Шарп\NikiKRCSharp2018\LINQ Basics\LINQ Basics\obj\Debug\LINQ Basics.exe
+D:\Google Drive\Шарп\NikiKRCSharp2018\LINQ Basics\LINQ Basics\obj\Debug\LINQ Basics.pdb
