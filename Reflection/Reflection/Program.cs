@@ -33,8 +33,11 @@ namespace Reflection {
                     Console.WriteLine(x + " " + PropAttr.Description);
                 }
             }
+            string method = "ToString";
+            Console.WriteLine($"\nВызов метода {method} с помощью рефлексии:");
+            object result = t.InvokeMember(method, System.Reflection.BindingFlags.InvokeMethod, null, obj, null);
+            Console.WriteLine(result);
             Console.ReadLine();
-            Attribute[] attrs = Attribute.GetCustomAttributes(t);
         }
     }
 }
