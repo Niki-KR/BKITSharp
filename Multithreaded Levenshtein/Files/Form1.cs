@@ -186,7 +186,7 @@ namespace Files {
         }
 
         private void MakeReportButton_Click(object sender, EventArgs e) {
-            sfd.FileName = "Report_" + DateTime.Now.ToString("yyyy_MM_ddThh:mm:ss");
+            sfd.FileName = "Report_" + DateTime.Now.ToString("yyyy_MM_ddThh_mm_ss");
             sfd.DefaultExt = ".txt";
             sfd.Filter = "Текстовые файлы (*.txt)|*.txt";
             if (sfd.ShowDialog() == DialogResult.OK) {
