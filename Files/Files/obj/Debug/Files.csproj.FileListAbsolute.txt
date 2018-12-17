@@ -18,3 +18,13 @@ D:\Google Drive\Шарп\NikiKRCSharp2018\Files\Files\obj\Debug\Files.csproj.Gen
 D:\Google Drive\Шарп\NikiKRCSharp2018\Files\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
 D:\Google Drive\Шарп\NikiKRCSharp2018\Files\Files\obj\Debug\Files.exe
 D:\Google Drive\Шарп\NikiKRCSharp2018\Files\Files\obj\Debug\Files.pdb
+D:\Универ\Шарп\BKITSharpRepo\Files\Files\bin\Debug\Files.exe.config
+D:\Универ\Шарп\BKITSharpRepo\Files\Files\bin\Debug\Files.exe
+D:\Универ\Шарп\BKITSharpRepo\Files\Files\bin\Debug\Files.pdb
+D:\Универ\Шарп\BKITSharpRepo\Files\Files\obj\Debug\Files.csprojAssemblyReference.cache
+D:\Универ\Шарп\BKITSharpRepo\Files\Files\obj\Debug\Files.Form1.resources
+D:\Универ\Шарп\BKITSharpRepo\Files\Files\obj\Debug\Files.Properties.Resources.resources
+D:\Универ\Шарп\BKITSharpRepo\Files\Files\obj\Debug\Files.csproj.GenerateResource.cache
+D:\Универ\Шарп\BKITSharpRepo\Files\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+D:\Универ\Шарп\BKITSharpRepo\Files\Files\obj\Debug\Files.exe
+D:\Универ\Шарп\BKITSharpRepo\Files\Files\obj\Debug\Files.pdb
