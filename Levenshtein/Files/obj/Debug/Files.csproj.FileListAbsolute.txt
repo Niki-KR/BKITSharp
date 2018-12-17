@@ -31,3 +31,16 @@ D:\Google Drive\Шарп\NikiKRCSharp2018\Levenshtein\Files\obj\Debug\Files.cspr
 D:\Google Drive\Шарп\NikiKRCSharp2018\Levenshtein\Files\obj\Debug\Files.csproj.CopyComplete
 D:\Google Drive\Шарп\NikiKRCSharp2018\Levenshtein\Files\obj\Debug\Files.exe
 D:\Google Drive\Шарп\NikiKRCSharp2018\Levenshtein\Files\obj\Debug\Files.pdb
+D:\Универ\Шарп\BKITSharpRepo\Levenshtein\Files\bin\Debug\Files.exe.config
+D:\Универ\Шарп\BKITSharpRepo\Levenshtein\Files\bin\Debug\Files.exe
+D:\Универ\Шарп\BKITSharpRepo\Levenshtein\Files\bin\Debug\Files.pdb
+D:\Универ\Шарп\BKITSharpRepo\Levenshtein\Files\bin\Debug\Levenshtein.dll
+D:\Универ\Шарп\BKITSharpRepo\Levenshtein\Files\bin\Debug\Levenshtein.pdb
+D:\Универ\Шарп\BKITSharpRepo\Levenshtein\Files\obj\Debug\Files.csprojAssemblyReference.cache
+D:\Универ\Шарп\BKITSharpRepo\Levenshtein\Files\obj\Debug\Files.Form1.resources
+D:\Универ\Шарп\BKITSharpRepo\Levenshtein\Files\obj\Debug\Files.Properties.Resources.resources
+D:\Универ\Шарп\BKITSharpRepo\Levenshtein\Files\obj\Debug\Files.csproj.GenerateResource.cache
+D:\Универ\Шарп\BKITSharpRepo\Levenshtein\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+D:\Универ\Шарп\BKITSharpRepo\Levenshtein\Files\obj\Debug\Files.csproj.CopyComplete
+D:\Универ\Шарп\BKITSharpRepo\Levenshtein\Files\obj\Debug\Files.exe
+D:\Универ\Шарп\BKITSharpRepo\Levenshtein\Files\obj\Debug\Files.pdb
