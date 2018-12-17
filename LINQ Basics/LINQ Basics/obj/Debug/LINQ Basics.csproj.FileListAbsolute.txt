@@ -5,3 +5,10 @@ D:\Google Drive\Шарп\NikiKRCSharp2018\LINQ Basics\LINQ Basics\obj\Debug\LINQ
 D:\Google Drive\Шарп\NikiKRCSharp2018\LINQ Basics\LINQ Basics\obj\Debug\LINQ Basics.csproj.CoreCompileInputs.cache
 D:\Google Drive\Шарп\NikiKRCSharp2018\LINQ Basics\LINQ Basics\obj\Debug\LINQ Basics.exe
 D:\Google Drive\Шарп\NikiKRCSharp2018\LINQ Basics\LINQ Basics\obj\Debug\LINQ Basics.pdb
+D:\Универ\Шарп\BKITSharpRepo\LINQ Basics\LINQ Basics\bin\Debug\LINQ Basics.exe.config
+D:\Универ\Шарп\BKITSharpRepo\LINQ Basics\LINQ Basics\bin\Debug\LINQ Basics.exe
+D:\Универ\Шарп\BKITSharpRepo\LINQ Basics\LINQ Basics\bin\Debug\LINQ Basics.pdb
+D:\Универ\Шарп\BKITSharpRepo\LINQ Basics\LINQ Basics\obj\Debug\LINQ Basics.csprojAssemblyReference.cache
+D:\Универ\Шарп\BKITSharpRepo\LINQ Basics\LINQ Basics\obj\Debug\LINQ Basics.csproj.CoreCompileInputs.cache
+D:\Универ\Шарп\BKITSharpRepo\LINQ Basics\LINQ Basics\obj\Debug\LINQ Basics.exe
+D:\Универ\Шарп\BKITSharpRepo\LINQ Basics\LINQ Basics\obj\Debug\LINQ Basics.pdb
